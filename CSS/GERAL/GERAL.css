@@ -1,0 +1,9 @@
+:root {
+    /* VARIAVEL EXEMPLO */
+    --variavel: #3f3f3f
+}
+
+
+/* QUERY EXEMPLO */
+
+@media only screen and (max-width: 800px) {}
